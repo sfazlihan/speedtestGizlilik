@@ -1,0 +1,23 @@
+Gizlilik Politikamız
+
+Bu internet hız testi uygulaması, kullanıcıların internet bağlantılarının hızını ölçmek için tasarlanmıştır. Uygulamamız, herhangi bir kişisel veri toplamamaktadır ve kullanıcıların gizliliğini korumak için çeşitli önlemler almaktadır.
+
+Veri Toplama ve Kullanımı
+
+Uygulamamız, kullanıcının internet hızını ölçmek için sadece gerekli olan verileri toplar. Bu veriler, yalnızca kullanıcının internet hızını ölçmek için kullanılır ve hiçbir şekilde kullanıcının kimliğiyle ilişkilendirilmez veya başka bir amaç için kullanılmaz.
+
+Gizlilik ve Güvenlik Önlemleri
+
+Uygulamamız, kullanıcıların gizliliğini korumak için çeşitli önlemler almaktadır. Bu önlemler arasında, uygulamanın yalnızca gerekli verileri toplaması, toplanan verilerin güvenli bir şekilde saklanması ve hiçbir şekilde üçüncü taraflarla paylaşılmaması bulunmaktadır.
+
+Çerezler
+
+Uygulamamız, çerez kullanmamaktadır.
+
+Değişiklikler
+
+Gizlilik politikamız zaman zaman güncellenebilir. Bu nedenle, gizlilik politikamızdaki değişiklikler hakkında bilgilendirme yapılacaktır.
+
+İletişim
+
+Herhangi bir soru veya endişeniz varsa, lütfen bize e-posta yoluyla ulaşın.
